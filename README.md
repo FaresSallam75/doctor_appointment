@@ -16,6 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
- <img src="https://github.com/FaresSallam75/doctor_appointment/assets/7a710808-dde4-4fcb-a0de-bedf523298fc" width="200px" height="400px" /> 
+ <img src="https://github.com/FaresSallam75/doctor_appointment/assets/7a710808-dde4-4fcb-a0de-bedf523298fc width="200px" height="400px" /> 
 
 </div>
