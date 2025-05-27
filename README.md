@@ -21,6 +21,9 @@ samples, guidance on mobile development, and a full API reference.
   <img src="assets/screenshots/register.png" width="200" alt="Signup Page">
 </div>
 
-### Home Page Sidebar
-![Welcome Page](assets/screenshots/welcome.png)  
-![Login Page](assets/screenshots/login.png)  
+## Screenshots
+
+| Welcome Page | Login Page | Signup Page |
+|--------------|------------|-------------|-----------------------|
+| ![Welcome](assets/screenshots/welcome.png) | ![Login](assets/screenshots/login.png) | ![Signup](assets/screenshots/register.png) |
+
