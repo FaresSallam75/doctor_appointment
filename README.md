@@ -15,3 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/screenshots/welcome.png" width="200" alt="Welcome Page">
+  <img src="assets/screenshots/login.png" width="200" alt="Login Page">
+  <img src="assets/screenshots/register" width="200" alt="Signup Page">
+</div>
