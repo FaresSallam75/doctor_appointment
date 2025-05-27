@@ -20,3 +20,5 @@ samples, guidance on mobile development, and a full API reference.
   <img src="assets/screenshots/login.png" width="200" alt="Login Page">
   <img src="assets/screenshots/register.png" width="200" alt="Signup Page">
 </div>
+
+![Welcome](assets/screenshots/welcome.png) | ![Login](assets/screenshots/login.png) | ![Signup](assets/screenshots/register.png) |
