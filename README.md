@@ -24,6 +24,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshots
 
 | Welcome Page | Login Page | Signup Page |
-|--------------|------------|-------------|-----------------------|
+
 | ![Welcome](assets/screenshots/welcome.png) | ![Login](assets/screenshots/login.png) | ![Signup](assets/screenshots/register.png) |
 
