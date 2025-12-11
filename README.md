@@ -7,6 +7,7 @@ The system helps users browse doctors, book appointments, chat, make payments, a
 
 ------
 🚀 Features
+
 👨‍⚕️ Doctor & Categories
 
 Browse doctors by category and specialty
@@ -150,6 +151,7 @@ Location	Google Maps API
 
 Fares Sallam
 Flutter Developer
+
 📧 faressallam75@gmail.com
 
 🌐 GitHub: https://github.com/FaresSallam75
