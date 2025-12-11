@@ -1,19 +1,114 @@
-# doctor_appointment
+ 🩺 Doctor Appointment & Telemedicine App (Flutter) 
 
-A new Flutter project.
+ A full-featured Doctor Appointment & Telemedicine application built with Flutter, using BLoC (Cubit) for state management and REST APIs for real-time data.
+The system helps users browse doctors, book appointments, chat, make payments, and receive notifications — all in one place.
 
-## Getting Started
+⚠️ This is the first version of the app and still under active development.
 
-This project is a starting point for a Flutter application.
+------
+🚀 Features
+👨‍⚕️ Doctor & Categories
 
-A few resources to get you started if this is your first Flutter project:
+Browse doctors by category and specialty
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Search doctors by name/specialization
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+View detailed doctor profiles & ratings
+
+📅 Appointments
+
+Book, edit, or cancel appointments
+
+Real-time appointment updates
+
+Automatic refresh & polling
+
+Smart schedule handling
+
+💬 Real-Time Chat
+
+One-to-one chat between users and doctors
+
+Text messages + file attachments
+
+Chat preview cards
+
+Auto-refresh & smooth UX
+
+📞 Calls (Telemedicine)
+
+Voice/Video call integration (Zego SDK)
+
+Call invitation & handling system
+
+🔐 Authentication
+
+Login & signup using secure REST APIs
+
+Forgot/reset password
+
+Update user profile & image
+
+💳 Payments
+
+Online payment using Paymob / Wallet
+
+View payment history
+
+Secure, fast checkout
+
+🔔 Notifications
+
+Push notifications via Firebase Cloud Messaging
+
+Local notifications for reminders
+
+Handles chat & appointment updates
+
+📍 Location
+
+Get user location
+
+Display doctor clinics on Google Maps
+
+🧱 Reusable UI Components
+
+Custom input fields
+
+Appointment cards
+
+Message bubbles
+
+Category carousels
+
+Doctor cards
+
+Date/time pickers
+
+⚙️ App Architecture
+
+BLoC (Cubit) state management
+
+Repository pattern for API requests
+
+Modular UI widgets
+
+Clean folder structure
+
+------
+🛠 Tech Stack
+Layer	Technology
+Framework	Flutter / Dart
+State Management	BLoC (Cubit)
+Backend	PHP REST API
+Database	MySQL
+Local Storage	Hive / SQLite
+Notifications	Firebase Cloud Messaging (FCM)
+Calls	Zego Cloud
+Payments	Paymob / Wallet
+Location	Google Maps API
+ 
+📸 Screenshots 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="assets/screenshots/welcome.png" width="200" alt="Welcome Page">
@@ -35,3 +130,26 @@ samples, guidance on mobile development, and a full API reference.
   <img src="assets/screenshots/payment.png" width="200" alt="Payment Page">
 </div>
 
+
+
+🧭 Roadmap
+
+ Improve UI/UX
+
+ Complete video call features
+
+ Add dark mode
+
+ Add doctor-side app
+
+ Add Admin Dashboard
+
+ Add AI assistant for medical Q&A
+
+👨‍💻 Developer
+
+Fares Sallam
+Flutter Developer
+📧 faressallam75@gmail.com
+
+🌐 GitHub: https://github.com/FaresSallam75
